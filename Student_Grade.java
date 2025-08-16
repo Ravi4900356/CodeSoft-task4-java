@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Student_Grad {
+public class Student_Grade {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -65,4 +65,5 @@ public class Student_Grad {
         scanner.close();
     }
 }
+
 
